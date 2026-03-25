@@ -1,7 +1,1 @@
-# oi mundo
-
-
-
-<h1> oi </h1>
-
-
+Repositório para referenciar vídeos e códigos do projeto realizado no IFRN-CM que cria vídeos didáticos com demonstrações matemáticas usando o Manim voltado para ensino de geometria no ensino básico e médio. 
